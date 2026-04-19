@@ -101,13 +101,10 @@ If you find this work useful, please cite:
 AOP-Smart has been published as a preprint on arXiv.
 
 ```
-@misc{niu2026aopsmartragenhancedlargelanguage,
-      title={AOP-Smart: A RAG-Enhanced Large Language Model Framework for Adverse Outcome Pathway Analysis}, 
-      author={Qinjiang Niu and Lu Yan},
-      year={2026},
-      eprint={2604.10874},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.10874}, 
+@article{niu2026aop,
+  title={AOP-Smart: A RAG-Enhanced Large Language Model Framework for Adverse Outcome Pathway Analysis},
+  author={Niu, Qinjiang and Yan, Lu},
+  journal={arXiv preprint arXiv:2604.10874},
+  year={2026}
 }
 ```
