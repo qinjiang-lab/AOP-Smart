@@ -75,7 +75,9 @@ After launching the interface:
 
 4. Enter your question in the **Task input field**  
 
-5. Click **"RUN"** and wait for the result  
+5. Click **"RUN"** and wait for the result
+
+workflow.pdf documents my personal usage process for reference only.
 
 ---
 
