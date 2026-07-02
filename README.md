@@ -86,7 +86,7 @@ workflow.pdf documents my personal usage process for reference only.
 
 - The performance depends on the selected LLM and API configuration  
 - Make sure your API key has sufficient quota and permissions  
-- If you need to change the XML version, please delete the `AOP-Smart.json` and `Index.txt` files first. After that, Windows users can simply rerun the `.bat` file, while macOS and Linux users should run:
+- If you need to change the XML version, please delete the AOP-Smart.json and Index.txt files first. After that, download the new XML dump from AOP-Wiki and rename it to aop-wiki.xml (the script hard-codes this filename). Then, Windows users can simply rerun the .bat file, while macOS and Linux users should run
 ```
 python XML_analysis.py
 ```
