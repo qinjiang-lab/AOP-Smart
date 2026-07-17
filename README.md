@@ -2,6 +2,8 @@
 
 AOP-Smart is a software system that enhances the capability of Large Language Models (LLMs) in the Adverse Outcome Pathway (AOP) domain using a Retrieval-Augmented Generation (RAG) framework.
 
+Try it live: https://aop-smart-demo.streamlit.app/
+
 ---
 
 ## Requirements
