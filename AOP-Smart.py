@@ -496,7 +496,7 @@ def run_llm(thread_id):
     try:
         max_tokens = int(max_tokens_entry.get())
     except:
-        max_tokens = 4096
+        max_tokens = 20000
     try:
         temperature = float(temperature_entry.get())
     except:
@@ -750,7 +750,7 @@ model_dropdown.grid(row=2, column=1, sticky="ew", pady=2)
 
 tk.Label(config_frame, text="Max Output").grid(row=3, column=0, sticky="w", pady=2)
 max_tokens_entry = tk.Entry(config_frame)
-max_tokens_entry.insert(0, "4096")
+max_tokens_entry.insert(0, "20000")
 max_tokens_entry.grid(row=3, column=1, sticky="ew", pady=2)
 
 tk.Label(config_frame, text="Temperature").grid(row=4, column=0, sticky="w", pady=2)
