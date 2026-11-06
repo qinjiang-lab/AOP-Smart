@@ -13,6 +13,7 @@ Before using this software, please ensure that:
 - Python is installed on your system
   This version can be used as a reference.
   https://www.python.org/downloads/release/python-3128/
+  
   When installing, be sure to select the "Add python.exe to PATH" option.
    
 - You have prepared the **Base URL** and **API Key** for your LLM service  
