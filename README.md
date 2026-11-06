@@ -10,7 +10,10 @@ Try it live: https://aop-smart-demo.streamlit.app/
 
 Before using this software, please ensure that:
 
-- Python is installed on your system  
+- Python is installed on your system
+  This version can be used as a reference.
+  https://www.python.org/downloads/release/python-31312/
+   
 - You have prepared the **Base URL** and **API Key** for your LLM service  
 
 ---
